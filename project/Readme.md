@@ -16,6 +16,7 @@ The main training and evaluation code has been provided in the notebooks *uncert
 - numpy >= 1.18.1
 - matplotlib >= 3.1.3
 - scipy >= 1.4.1
+- cleverhans >= 3.0.1
 
 
 
